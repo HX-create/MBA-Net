@@ -30,4 +30,4 @@ python test.py # replace with your own data path
 ## Contacts
 If you have any question about the project, please contact me.
 
-E-mail: 202120117627@mail.scut.edu.com
+E-mail: 202120117627@mail.scut.edu.cn
